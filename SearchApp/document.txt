@@ -1,0 +1,7 @@
+Search a single document for a string of words. I like potatoes.
+Search multiple documents for the same string of words.Howtogeek is awesome.
+Search a folder or drive for files that contain a string or words.
+Count the number of lines in a file.Martin Hendrikx.
+Pipe output from a command into the find tool.Sushi is a tasy treat.
+
+Now you will need to open up an elevated command prompt window.  Open the start menu in Windows 7 and 10 or open the search function in Windows 8 and search for CMD.  Next, right-click on it and then press “Run as administrator.”  While you don’t need to open an elevated command prompt window, it will help you to avoid any pesky confirmation dialog boxes.

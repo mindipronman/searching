@@ -1,0 +1,5 @@
+These documents each contain a paragraph of text with a few similar word groupings.  
+Once you have downloaded these three documents, you can copy them into any folder on your computer.  
+I like to eat sushi because it is healthy.
+For the purposes of this tutorial, we will put all three text documents on the desktop.
+Martin Hendrikx writes for howtogeek and he loves potatoes.
